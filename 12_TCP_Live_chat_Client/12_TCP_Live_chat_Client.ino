@@ -1,7 +1,7 @@
 #include <SPI.h>
 #include <WiFi.h>
-char ssid[]= "EDGATE TECH";
-char password[]= "00936903";
+char ssid[]= "EH";
+char password[]= "903";
 char b[100];
 int k;
 
