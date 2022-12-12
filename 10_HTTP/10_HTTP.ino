@@ -4,8 +4,8 @@
 #endif
 #include <WiFi.h>
 
-char ssid[] = "EDGATE TECH";
-char password[] = "00936903";
+char ssid[] = "TECH";
+char password[] = "0093";
 int keyIndex = 0;
 
 WiFiServer server(80);
