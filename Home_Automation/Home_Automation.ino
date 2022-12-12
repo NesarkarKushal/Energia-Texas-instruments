@@ -49,8 +49,8 @@ char auth[] = "8kIRtrRe4mzYvxG25Ri3ToZkVpN-hrZi";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "EDGATE TECH";
-char pass[] = "00936903";
+char ssid[] = "TECH";
+char pass[] = "0093";
 
 void setup()
 {
