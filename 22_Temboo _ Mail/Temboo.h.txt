@@ -1,0 +1,6 @@
+#define TEMBOO_ACCOUNT "KushalNesarkar"  // your Temboo account name 
+#define TEMBOO_APP_KEY_NAME "myFirstApp"  // your Temboo app name
+#define TEMBOO_APP_KEY  "WhZh4nRRkalDOki8dWuIGNlyiUmJb=4nh"  // your Temboo app key
+
+#define WIFI_SSID "realme 6"
+#define WIFI_PASSWORD "123456789"

@@ -1,0 +1,1 @@
+This code is tested with CC3200 Launchpad from Texas Instruments
