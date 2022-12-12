@@ -4,9 +4,9 @@
 IPAddress ip(192, 168, 1, 122);  
 
 // your network name also called SSID
-char ssid[] = "EDGATE TECH";
+char ssid[] = "ED";
 // your network password
-char password[] ="00936903";
+char password[] ="003";
 
 WiFiServer server(1124);
 
