@@ -1,8 +1,8 @@
 #include <SPI.h>
 #include <WiFi.h>
 
-char ssid[]= "EDGATE TECH";
-char password[]= "00936903";
+char ssid[]= "TECH";
+char password[]= "003";
 
 uint16_t port =1124;     // port number of the server
 IPAddress server(192,168,1,122);   // IP Address of the server
